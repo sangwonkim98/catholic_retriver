@@ -1,6 +1,10 @@
+langchain
+langchain-community
 faiss-cpu
 sentence-transformers
-openai
-gradio
-numpy
 torch
+jq
+tiktoken
+openai
+python-dotenv
+gradio
